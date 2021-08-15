@@ -202,7 +202,7 @@ while True:
                 skill = 3
         if score == 400:
             print("1.Hunter - Stajesz się niewidzialny jednocześnie zyskujesz większą prędkość gdy zbliżysz się do przeciwnika skoczysz na niego zadając mu obrażenia jesteś niewidoczny ąż skończy ci się pasek ulta który się zmniejszą za każdym razem gdy się ruszysz")
-            print("2.Shoot - Wykonujesz natychmiastowy strzał w przeciwnika który jest w twojim polu widzenia zadając mu obrażenia.")
+            print("2.Shoot - Wykonujesz natychmiastowy strzał w przeciwnika który jest w twoim polu widzenia zadając mu obrażenia.")
             print("3.Repulse - Odpychasz przeciwników którzy są w pobliżu ciebię zadajać im obrażenia.")
             Ult = input("Wybierz Umiejętność Główną")
             score += 2
