@@ -1,3 +1,4 @@
+## Możesz uruchomić przez konsolę kopiując lub pobierając skrypt jeśli masz zainstalowanego pygame'a.
 ## Opis
 Projekt nie jest skończony oraz jest porzucony.
 Jest to moja pierwsza gra stworzona w pythonie. 
