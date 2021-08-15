@@ -25,3 +25,6 @@ Zdobywając odpowiednią ilość punktów możesz dostać level up, który pozwo
 2.Shoot - Wykonujesz natychmiastowy strzał w przeciwnika, który jest w twojim polu widzenia zadając mu obrażenia.
 
 3.Repulse - Odpychasz przeciwników którzy są w pobliżu ciebię zadajać im obrażenia
+
+## Film
+https://www.youtube.com/watch?v=xpJTJHhdAYU
