@@ -1,4 +1,5 @@
-## Możesz uruchomić kopiując lub pobierając skrypt.
+![Alt text](https://github.com/Peokk/My-First-Python-Game/blob/main/Screen.png)
+
 ## Opis
 Projekt nie jest skończony oraz jest porzucony.
 Jest to moja pierwsza gra stworzona w pythonie. 
