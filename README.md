@@ -5,7 +5,9 @@ This is my first python game based on an .io games
 
 ## Features
 -The board drawing system created by me.
+
 -Nine special character abilities.
+
 -By earning points you can unlock new abilities.
 
 ## Passive abilities
